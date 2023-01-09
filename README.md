@@ -3,13 +3,17 @@
 
 👨‍💻 I work on Phishing Detection and Analysis codes and tools. Most of my work is private. Contact me if you need any phishing support.
 
+<br>
+<p>If you are a <b>KITIntel</b> user. Check out this wrapper for the API. Allowing for rapid, easy to use, and allowing for automation use of the KITIntel API directly from your command line. Find the repo here: <a href="https://github.com/JCyberSec/KIT">https://github.com/JCyberSec/KIT</a></p>
+
+<p>If you use <b>URLscan</b> API then why not enhance the data by using the CLI tool. Allowing for automation loops and custom searching across the URLscan data sources. Find the repo here: <a href="https://github.com/JCyberSec/CTIURLScan">https://github.com/JCyberSec/CTIURLScan</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jcybersec_" target="blank"><img src="https://img.shields.io/twitter/follow/jcybersec_?logo=twitter&style=for-the-badge" alt="jcybersec_" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcybersec&show_icons=true&locale=en" alt="jcybersec" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jcybersec?cardType=github&theme=github-dark&Ring=10DD00&Text=FFFFFF)](https://git.io/awesome-stats-card)
 
 
 <h3 align="left">Languages and Tools:</h3>
