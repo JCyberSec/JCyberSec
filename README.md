@@ -13,7 +13,7 @@
 <a href="https://twitter.com/jcybersec_" target="blank"><img src="https://img.shields.io/twitter/follow/jcybersec_?logo=twitter&style=for-the-badge" alt="jcybersec_" /></a>
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jcybersec?cardType=github&theme=github-dark&Ring=10DD00&Text=FFFFFF)](https://git.io/awesome-stats-card)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jcybersec?cardType=github&theme=github-dark&Ring=10DD00&Text=FFFFFF)
 
 
 <h3 align="left">Languages and Tools:</h3>
